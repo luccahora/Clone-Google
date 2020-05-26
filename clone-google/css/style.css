@@ -21,7 +21,6 @@ body{
     list-style: none;
     padding: 5px 10px;
 }
-
 .nav-list li a{
     color: #5F6368;
     text-decoration: none;
@@ -98,7 +97,6 @@ body{
 #body input[type="submit"]:hover{
     color: #333;
     border-color: #333;
-
 }
 
 /* Footer */
